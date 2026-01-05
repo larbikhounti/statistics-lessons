@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "d64fe437243a116d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec5c9bdea9df347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d13e73c159e22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistiques/statistiques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0177f0f75c51592",
+    "type": "split",
+    "children": [
+      {
+        "id": "4673d6bc6bcdf9d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee76c0e9da3cde2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f94187f27ee07ee3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d57df57d82d8903",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "right": {
+    "id": "c56cb200b84ee304",
+    "type": "split",
+    "children": [
+      {
+        "id": "6787b2cffdc64f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b93aaed5c05d527",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Statistiques/statistiques.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c0b4a9b685a0427",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Statistiques/statistiques.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aea8a33dddd7ef30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c482f451bbc124c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Statistiques/statistiques.md"
+              }
+            }
+          },
+          {
+            "id": "d1745cb723c0f23e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cee76c0e9da3cde2",
+  "lastOpenFiles": [
+    "Statistiques/Pasted image 20260105221633.png",
+    "Statistiques/Pasted image 20260105221510.png",
+    "app/Readme.md",
+    "Statistiques/statistiques.md",
+    "Statistiques",
+    "app/landing page analytic.md",
+    "app",
+    "Untitled.canvas",
+    "app/Scenarios/Dashboard.md",
+    "app/User Space/Travel/Add travel.md",
+    "Untitled.md",
+    "app/User Space/Drivers/Add truck driver.md",
+    "app/User Space/Drivers/Delete truck driver.md",
+    "app/User Space/Drivers/Update truck driver.md",
+    "app/User Space/profile page.md",
+    "app/Scenarios/Update profile.md",
+    "app/Scenarios/Manage travels.md",
+    "app/Scenarios/Manage drivers.md",
+    "app/Scenarios/Forgot Password.md",
+    "app/Scenarios/Authentication.md",
+    "app/Authentication/Forgot Password page.md",
+    "app/Authentication/New password page.md",
+    "app/Authentication/Register page.md",
+    "app/User Space/Dashboard/truck travels table.md",
+    "app/User Space/Dashboard/total of capital spent.md",
+    "app/User Space/Dashboard/total  of problems.md",
+    "app/Authentication/Sign in page.md",
+    "app/Scenarios/Authorization.md",
+    "app/Authorization/Driver permissions.md",
+    "app/Authorization/Travel permissions.md",
+    "app/Authorization",
+    "app/Authorization",
+    "User Space/Untitled",
+    "Scenarios/Manage truck drivers",
+    "app/User Space/Travel",
+    "app/User Space/Drivers",
+    "Use-Cases/Untitled",
+    "app/User Space/Dashboard",
+    "test1/test.canvas"
+  ]
+}
