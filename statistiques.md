@@ -5,9 +5,7 @@
 	 **Variables qualitatives :** 
 		 **Définition :** variables décrivant des caractéristiques non numériques
 		 **Nominales :** modalités sans ordre particulier. Exemple : sexe (masculin, féminin), couleur des yeux (bleu, vert, marron).
-	**Variables quantitatives (ou numériques) :** Définition : variables mesurables par un nombre.d 
-	
-	
+	**Variables quantitatives (ou numériques) :** Définition : variables mesurables par un nombre.
 		**Discrètes :** valeurs séparées, souvent entières. Exemple : nombre d’enfants, nombre de visites 
 		**Continues :** toutes les valeurs possibles dans un intervalle. Exemple : taille, poids, température, durée.
 	**Variables dichotomiques (ou binaires) Définition :** variables qualitatives avec exactement deux modalités. Exemple : oui/non, vrai/faux, malade/non malade
