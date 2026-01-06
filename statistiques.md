@@ -11,3 +11,8 @@
 	**Variables dichotomiques (ou binaires) Définition :** variables qualitatives avec exactement deux modalités. Exemple : oui/non, vrai/faux, malade/non malade
 ![[Pasted image 20260105221633.png]]
 ![[Pasted image 20260105225721.png]]
+# Représentation graphique
+### 1 - variable qualitatif
+![[Pasted image 20260106172806.png]]
+### 2 - variable quantitatif Disart = ni ou fi
+![[Pasted image 20260106173431.png]]
